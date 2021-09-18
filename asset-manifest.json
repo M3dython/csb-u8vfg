@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-u8vfg/static/css/main.73c42f08.chunk.css",
+    "main.js": "https://.github.io/csb-u8vfg/static/js/main.d915e158.chunk.js",
+    "main.js.map": "https://.github.io/csb-u8vfg/static/js/main.d915e158.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-u8vfg/static/js/runtime-main.f4f0f812.js",
+    "runtime-main.js.map": "https://.github.io/csb-u8vfg/static/js/runtime-main.f4f0f812.js.map",
+    "static/js/2.2cc27b00.chunk.js": "https://.github.io/csb-u8vfg/static/js/2.2cc27b00.chunk.js",
+    "static/js/2.2cc27b00.chunk.js.map": "https://.github.io/csb-u8vfg/static/js/2.2cc27b00.chunk.js.map",
+    "index.html": "https://.github.io/csb-u8vfg/index.html",
+    "static/css/main.73c42f08.chunk.css.map": "https://.github.io/csb-u8vfg/static/css/main.73c42f08.chunk.css.map",
+    "static/js/2.2cc27b00.chunk.js.LICENSE.txt": "https://.github.io/csb-u8vfg/static/js/2.2cc27b00.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://.github.io/csb-u8vfg/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.1c9d56b9.png": "https://.github.io/csb-u8vfg/static/media/bg.1c9d56b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4f0f812.js",
+    "static/js/2.2cc27b00.chunk.js",
+    "static/css/main.73c42f08.chunk.css",
+    "static/js/main.d915e158.chunk.js"
+  ]
+}
